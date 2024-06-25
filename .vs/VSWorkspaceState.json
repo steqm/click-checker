@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\pages",
+    "\\src\\pages\\game",
+    "\\src\\pages\\maechan",
+    "\\src\\pages\\play"
+  ],
+  "SelectedNode": "\\src\\pages\\play\\index.astro",
+  "PreviewInSolutionExplorer": false
+}
